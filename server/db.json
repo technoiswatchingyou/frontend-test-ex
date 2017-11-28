@@ -1,0 +1,40 @@
+{
+    "reciepts": [
+        {
+            "id": 1,
+            "title": "crab cakes baltimore-style",
+            "author": "Pierre Franey",
+            "image_url": "http://localhost:3000/1.jpg",
+            "category": "vegi",
+            "created_at": "1511864675",
+            "descriptiion": "This is a meal with complex flavors and a variety of textures: velvety from the honey-roasted squash, tender and juicy from the tofu, with the occasional crunch from the sesame-seed garnish and a slight chew from the squash peel."
+        },
+        {
+            "id": 2,
+            "title": "sweet and spicy roasted tofu and squash",
+            "author": "Pierre Franey",
+            "image_url": "http://localhost:3000/2.jpg",
+            "category": "vegi",
+            "created_at": "1511865035",
+            "descriptiion": "This is a meal with complex flavors and a variety of textures: velvety from the honey-roasted squash, tender and juicy from the tofu, with the occasional crunch from the sesame-seed garnish and a slight chew from the squash peel."
+        },
+        {
+            "id": 3,
+            "title": "modern chicken potpie",
+            "author": "Julia Moskin",
+            "image_url": "http://localhost:3000/3.jpg",
+            "category": "meat",
+            "created_at": "1511865935",
+            "descriptiion": "This is a meal with complex flavors and a variety of textures: velvety from the honey-roasted squash, tender and juicy from the tofu, with the occasional crunch from the sesame-seed garnish and a slight chew from the squash peel."
+        },
+        {
+            "id": 4,
+            "title": "steak with gigner butter souce",
+            "author": "Mark Bittman",
+            "image_url": "http://localhost:3000/4.jpg",
+            "category": "meat",
+            "created_at": "1511869535",
+            "descriptiion": "This is a meal with complex flavors and a variety of textures: velvety from the honey-roasted squash, tender and juicy from the tofu, with the occasional crunch from the sesame-seed garnish and a slight chew from the squash peel."
+        }
+    ]
+}
